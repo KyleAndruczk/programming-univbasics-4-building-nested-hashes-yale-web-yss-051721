@@ -34,6 +34,6 @@ def monopoly_with_fourth_tier
   # complexity.
   base[:railroads][:names][:reading_railroad] = { mortgage_value : 100 }
   base[:railroads][:names][:pennsylvania_railroad] = { mortgage_value : 100 }
-  base[:railroads][:names][:reading_railroad] = { mortgage_value : 100 }
+  base[:railroads][:names][:b_and_o_railroad] = { mortgage_value : 100 }
   base[:railroads][:names][:reading_railroad] = { mortgage_value : 100 }
 end
